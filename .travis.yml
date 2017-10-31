@@ -1,2 +1,8 @@
-language: 
-hsbbsbskajb<asn
+
+language: php
+php:
+  - "7.0"
+ 
+ 
+script:
+- php archivo.php
